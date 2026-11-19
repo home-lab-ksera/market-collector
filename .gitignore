@@ -1,0 +1,12 @@
+target/
+
+# local env files
+.env
+.env.*
+
+# editor and system junk
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
